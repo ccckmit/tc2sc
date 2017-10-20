@@ -1,7 +1,7 @@
 {
   "name": "twcn",
   "version": "0.0.1",
-  "description": "Everything (object) tracking system",
+  "description": "繁體<=>簡體轉換",
   "main": "lib/twcn.js",
   "dependencies": {},
   "devDependencies": {
