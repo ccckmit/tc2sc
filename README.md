@@ -24,6 +24,8 @@ console.log('tc=', tc, ' sc=', sc)
 tc=todo:寫一個函數將該字串轉為簡體。 sc=todo:写一个函数将该字串转为简体。
 ```
 
+<!--
+
 ## 簡體轉繁體 : twcn.iconvert(）
 
 ```js
@@ -40,3 +42,4 @@ sc=todo:写一个函数将该字串转为简体。 tc=todo:寫一個函數將該
 ```
 
 
+-->
